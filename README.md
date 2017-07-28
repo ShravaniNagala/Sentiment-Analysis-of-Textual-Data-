@@ -1,2 +1,3 @@
 # Sentiment-Analysis-of-Textual-Data-
-Sentiment analysis is performed on Movie Reviews to classify the data into multiple classes (negative, somewhat negative, neutral, somewhat positive, and positive).
+Sentiment analysis is performed on Movie Reviewsdataset (taken from Kaggle) to classify the data into multiple classes (negative, somewhat negative, neutral, somewhat positive, and positive).
+This classification has been done in the project by applying Natural Language Processing techniques like tokenization, stemming (while preserving punctuations) and tf-idf to process the input data (reviews) and then apply Machine learning classifiers and also parameter tuning mechanisms to extract useful features. The classifiers used are SVM, Multinomial Naïve Bayes and Logistic Regression whose results are comparable to previous works on multiclass classification of sentiments. 
